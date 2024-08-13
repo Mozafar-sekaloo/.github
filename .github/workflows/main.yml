@@ -1,4 +1,4 @@
-name: Update Configs
+https://github.com/Mozafar-sekaloo/.github/actions/workflows/main.yml/badge.svgname: Update Configs
 permissions: write-all
 
 on:
